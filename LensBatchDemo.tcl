@@ -1,3 +1,6 @@
+# TO RUN THIS SCRIPT: 
+# lens -b LensBatchDemo.tcl
+
 # The follow is a basic and heavily annotated script for running a "batch"
 # process with lens. A batch process is one that does not utilize the graphic
 # user interface (GUI). This is done to aid in automation and replication of
